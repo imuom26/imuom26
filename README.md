@@ -1,16 +1,19 @@
 ## Hi there 👋
+I'm a Computer Science student majoring in Artificial Intelligence at Taylor's University, with a minor in Entrepreneurship. I’m passionate about applying technology to solve real-world problems and am particularly interested in the intersection of AI and business innovation.
 
-<!--
-**imuom26/imuom26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 Skills & Interests Languages: Python, SQL, Java (basic)
 
-Here are some ideas to get you started:
+AI/ML: Machine Learning, Data Analysis, AI fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Other Interests: Entrepreneurship, Startup culture, Problem-solving.
+
+📚 Currently Learning: Advanced Python and data structures, Building machine learning models, Applying SQL for data management and analysis, Exploring how AI can drive business solutions
+
+🚀 Looking Forward To: Collaborating on open-source AI/ML projects, Enhancing my skills in deep learning and big data, Learning more about product development and business strategy
+
+🌱 Let's Connect! Feel free to connect or collaborate if you’re interested in AI, startups, or just want to talk tech!
+
+⚡LinkedIn | https://www.linkedin.com/in/tasniamoumi/
+
+GitHub | https://github.com/imuom26
+
