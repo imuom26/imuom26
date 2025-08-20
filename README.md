@@ -15,5 +15,5 @@ Other Interests: Entrepreneurship, Startup culture, Problem-solving.
 
 ⚡LinkedIn | https://www.linkedin.com/in/tasniamoumi/
 
-GitHub | https://github.com/imuom26
+⚡GitHub | https://github.com/imuom26
 
