@@ -1,19 +1,86 @@
-## Hi there 👋
-I'm a Computer Science student majoring in Artificial Intelligence at Taylor's University, with a minor in Entrepreneurship. I’m passionate about applying technology to solve real-world problems and am particularly interested in the intersection of AI and business innovation.
+# Hi there 👋
 
-🧑‍💻 Skills & Interests Languages: Python, SQL, Java (basic)
+I'm **Tasnia Haque Moumi**, a Computer Science (Artificial Intelligence) undergraduate at Taylor's University with hands-on experience building AI-powered applications, machine learning systems, and scalable backend solutions.
 
-AI/ML: Machine Learning, Data Analysis, AI fundamentals
+My work focuses on **Computer Vision, Generative AI, Machine Learning, and Backend Engineering**, with experience developing end-to-end applications using FastAPI, React, Supabase, TensorFlow, YOLOv8, Azure AI Foundry, and modern AI technologies.
 
-Other Interests: Entrepreneurship, Startup culture, Problem-solving.
+## 🚀 Areas of Expertise
 
-📚 Currently Learning: Advanced Python and data structures, Building machine learning models, Applying SQL for data management and analysis, Exploring how AI can drive business solutions
+* Artificial Intelligence & Machine Learning
+* Computer Vision & Action Recognition
+* Generative AI & Large Language Models (LLMs)
+* Python Backend Development
+* REST API Design & Integration
+* FastAPI & Supabase
+* Database Design (PostgreSQL, MySQL)
+* Model Training, Evaluation & Deployment
 
-🚀 Looking Forward To: Collaborating on open-source AI/ML projects, Enhancing my skills in deep learning and big data, Learning more about product development and business strategy
+## 🛠 Tech Stack
 
-🌱 Let's Connect! Feel free to connect or collaborate if you’re interested in AI, startups, or just want to talk tech!
+**Languages**
 
-⚡LinkedIn | https://www.linkedin.com/in/tasniamoumi/
+* Python
+* SQL
+* Java
+* JavaScript
 
-⚡GitHub | https://github.com/imuom26
+**AI / ML**
+
+* TensorFlow
+* OpenCV
+* YOLOv8
+* R3D-18
+* SlowFast
+* NLP
+* Generative AI
+* Prompt Engineering
+
+**Backend & Databases**
+
+* FastAPI
+* Flask
+* REST APIs
+* Supabase
+* PostgreSQL
+* MySQL
+
+**Cloud & Tools**
+
+* Azure AI Foundry
+* Microsoft Foundry
+* AWS
+* Git & GitHub
+* Power BI
+* Figma
+
+## 🌟 Featured Projects
+
+### FaunaBehav
+
+AI-powered wildlife behaviour monitoring and intelligent deterrence system utilizing Computer Vision, YOLOv8, and Action Recognition models for smart farming environments.
+
+### ProcureMind AI
+
+Enterprise procurement intelligence platform leveraging Generative AI, predictive analytics, and supplier evaluation workflows to support data-driven procurement decisions.
+
+### AI Customer Guardian
+
+Customer support automation and fraud detection platform combining NLP, intelligent case routing, and AI-powered assistance.
+
+## 🎯 Current Focus
+
+* AI Engineering
+* Machine Learning Systems
+* Computer Vision Applications
+* Backend Architecture
+* Generative AI Solutions
+
+## 📫 Connect With Me
+
+**LinkedIn:**
+https://www.linkedin.com/in/tasniamoumi/
+
+**GitHub:**
+https://github.com/imuom26
+
 
