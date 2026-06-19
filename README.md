@@ -1,10 +1,10 @@
-# Hi there 👋
+# Hi there 
 
 I'm **Tasnia Haque Moumi**, a Computer Science (Artificial Intelligence) undergraduate at Taylor's University with hands-on experience building AI-powered applications, machine learning systems, and scalable backend solutions.
 
 My work focuses on **Computer Vision, Generative AI, Machine Learning, and Backend Engineering**, with experience developing end-to-end applications using FastAPI, React, Supabase, TensorFlow, YOLOv8, Azure AI Foundry, and modern AI technologies.
 
-## 🚀 Areas of Expertise
+## Areas of Expertise
 
 * Artificial Intelligence & Machine Learning
 * Computer Vision & Action Recognition
@@ -15,7 +15,7 @@ My work focuses on **Computer Vision, Generative AI, Machine Learning, and Backe
 * Database Design (PostgreSQL, MySQL)
 * Model Training, Evaluation & Deployment
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -53,7 +53,7 @@ My work focuses on **Computer Vision, Generative AI, Machine Learning, and Backe
 * Power BI
 * Figma
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### FaunaBehav
 
@@ -67,7 +67,7 @@ Enterprise procurement intelligence platform leveraging Generative AI, predictiv
 
 Customer support automation and fraud detection platform combining NLP, intelligent case routing, and AI-powered assistance.
 
-## 🎯 Current Focus
+## Current Focus
 
 * AI Engineering
 * Machine Learning Systems
